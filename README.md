@@ -4,7 +4,7 @@ Introduction
 
 The Global book market is expected to reach $142.33 Billion by the end of 2022. Amazon has been a dominant player in this industry. One of the reasons for this dominance is the insights about bibliophiles that they gather through vital subsidiaries like Goodreads and Audible.
 Goodreads is a subsidiary of Amazon that provides book recommendations, along with other services, to its users. Members of Goodreads can keep track of the books they have read, are currently reading, and want to read in the future. The website also allows its users to connect with friends so that they can see what books their friends are reading. Additionally, the website consists of interviews with various authors where they talk about recently published books as well as promote their upcoming books. What makes Goodreads useful is that their lists of recommendations change dynamically over time so that the user always has access to the most relevant recommendations that match their preferences.
-As a group of consultants hired by Amazon to explore new revenue generating business opportunities, we will analyze Goodreads data to research focus areas that can be utilized to their full potential. The answers to following questions will aid Amazon in making critical business decisions and leveraging benefits of Goodreads.
+To explore new revenue generating business opportunities, we have analyzed Goodreads data to research focus areas that can be utilized to their full potential. The answers to following questions will aid Amazon in making critical business decisions and leveraging benefits of Goodreads.
 
 
 Questions of Research
